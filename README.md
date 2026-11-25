@@ -59,4 +59,10 @@ collected, the player can reach the exit portal to complete the level.
 
 ## Gameplay Demonstration
 
-Halfway review gameplay video will be added here.
+[Watch the Halfway Review Gameplay Demonstration](https://youtu.be/C7Lx-dRzifA)
+
+## Running the Game
+
+1. Open the project using Unity 6 (6000.0.58f1).
+2. Open Assets/Scenes/Level01.unity.
+3. Press Play and use WASD to move.
